@@ -1,5 +1,15 @@
 Learn Markdown
 
+**Links**
+http://www.emoji-cheat-sheet.com/
+https://github.com/github/linguist/blob/master/lib/linguist/languages.yml
+https://github.com/github/linguist
+
+**Link Syntax**
+
+[Visit GitHub!](www.github.com)
+
+
 **Headings**
 
 # The largest heading (an h1 tag)
